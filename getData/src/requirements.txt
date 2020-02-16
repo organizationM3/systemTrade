@@ -1,0 +1,10 @@
+requests
+pprint
+six
+regex
+pytest
+pytest-mock
+oandapyV20
+configparser
+pandas
+statsmodels
